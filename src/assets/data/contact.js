@@ -1,6 +1,6 @@
 export const contact = {
   name: "Kelai Afaf",
-  job: "Full stack js Instractor ",
+  job: "Full stack js Instructor ",
   avatar: {
     src: "./avatar.jpg",
     alt: "quoc-dat-wears-a-mask"

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+padding:0;
+box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+
+.headerContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(73, 71, 71);
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    margin-top:2em;
+    list-style: none;
+    display: flex;
+    gap:1.2rem;
+ 
+   
+}
+
+a{
+    color: rgb(73, 71, 71);
+}
+
+a:hover{
+    color: rgb(36, 192, 184);
+}
+.home{
+    color: rgb(36, 192, 184);
+}
+
+.home:hover{
+    color: rgb(73, 71, 71);
+}
